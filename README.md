@@ -1,5 +1,7 @@
 # Vrinda Store Sales Data Analysis (Excel Project)
 
+![Dashboard Preview](dashboard2.png)
+
 This project involves analyzing the sales data of **Vrinda Store** for the year 2022 using Microsoft Excel. The objective of the analysis is to understand customer purchase behavior, identify top-performing sales channels, determine key demographics, and extract meaningful business insights to help improve sales strategy.
 
 ---
