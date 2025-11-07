@@ -6,7 +6,7 @@ This project involves analyzing the sales data of **Vrinda Store** for the year 
 
 ---
 
-## 📂 Dataset Overview
+##  Dataset Overview
 
 The dataset contains customer purchase records including:
 
@@ -25,7 +25,7 @@ The dataset contains customer purchase records including:
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -36,7 +36,7 @@ The dataset contains customer purchase records including:
 
 ---
 
-## 🔧 Steps Performed
+##  Steps Performed
 
 1. **Data Cleaning**
    - Removed duplicates and null entries
@@ -55,7 +55,7 @@ The dataset contains customer purchase records including:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - **Women** are the primary customers contributing most to sales.
 - The **Adult (30-49 yrs)** age group has the highest order share.
@@ -65,7 +65,7 @@ The dataset contains customer purchase records including:
 
 ---
 
-## 📝 Final Conclusion
+##  Final Conclusion
 
 To improve sales, Vrinda Store should:
 
@@ -76,7 +76,7 @@ To improve sales, Vrinda Store should:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Convert dashboard into **Power BI** for dynamic insights.
 - Automate monthly sales reporting with **Excel Macros** or **Power Query**.
@@ -84,7 +84,7 @@ To improve sales, Vrinda Store should:
 
 ---
 
-### 📦 Project File Included:
+###  Project File Included:
 - `Vrinda Store Data Analysis.xlsx` – Contains dataset, pivot tables, charts, and dashboard.
 
 ---
